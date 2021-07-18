@@ -58,3 +58,8 @@ docker run -d --env NGROK_AUTHTOKEN={ngrok_Authtoken} --env SG_APIKEY={sg_key} -
 ```
 
 ## Commands & Options
+
+
+## Support Me
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/samairtimer)
+
