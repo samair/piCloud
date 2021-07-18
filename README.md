@@ -51,11 +51,9 @@ Copy the auth token and keep it, we need it in next steps.
 
 #### Install PiCloud Docker image
 
-On your RaspberryPi, you need to set the following environment variables which the docker container would need
+On your RaspberryPi, you need to just one command and you are done
 ```bash
-export NGROK_AUTHTOKEN={key}
-export SG_APIKEY={sendGrid API key}
-export ADMIN_EMAIL={adminemailwhereyouwanturlinfo/sameoneusedtocreateSendgridAPIKey}
+
 ```
 
 ## ⚙️ Commands & Options
