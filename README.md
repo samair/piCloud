@@ -54,7 +54,7 @@ Copy the auth token and keep it, we need it in next steps.
 If you followed steps in Quick Start, you are just one command away from installing your own Private cloud on Raspberry PI
 
 ```bash
-docker run --env NGROK_AUTHTOKEN={ngrok_Authtoken} --env SG_APIKEY={sg_key} --env ADMIN_EMAIL={admin/sg verified email} samairtimer/homecloud:v0.3
+docker run -d --env NGROK_AUTHTOKEN={ngrok_Authtoken} --env SG_APIKEY={sg_key} --env ADMIN_EMAIL={admin/sg verified email} samairtimer/homecloud:v0.3
 ```
 
 ## Commands & Options
