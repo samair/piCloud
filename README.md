@@ -49,11 +49,12 @@ Your RaspberryPi can not be accessed publicly unless you have a static IP addres
 Create a free account with ngrok - https://dashboard.ngrok.com/get-started/setup.
 Copy the auth token and keep it, we need it in next steps.
 
-#### Install PiCloud Docker image
+## ⚙️ Installation
 
-On your RaspberryPi, you need to just one command and you are done
+If you followed steps in Quick Start, you are just one command away from installing your own Private cloud on Raspberry PI
+
 ```bash
-
+docker run --env NGROK_AUTHTOKEN={ngrok_Authtoken} --env SG_APIKEY={sg_key} --env ADMIN_EMAIL={admin/sg verified email} samairtimer/homecloud:v0.3
 ```
 
-## ⚙️ Commands & Options
+## Commands & Options
