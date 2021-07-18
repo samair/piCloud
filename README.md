@@ -57,9 +57,6 @@ If you followed steps in Quick Start, you are just one command away from install
 docker run -d --env NGROK_AUTHTOKEN={ngrok_Authtoken} --env SG_APIKEY={sg_key} --env ADMIN_EMAIL={admin/sg verified email} samairtimer/homecloud:v0.3
 ```
 
-## Commands & Options
-
-
 ## Support Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/samairtimer)
 
