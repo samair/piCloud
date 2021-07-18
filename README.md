@@ -45,9 +45,9 @@ Note - You could use your gmail/public email to begin with
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Setup ngrok
-Your RaspberryPi can not be accessed publicly unless you have a static IP address. Dont worry ngrok is here for the rescue.
-Create a free account with ngrok - https://dashboard.ngrok.com/get-started/setup
-Copy the auth token and keep it, we need in it next steps.
+Your RaspberryPi can not be accessed publicly unless you have a static IP address. Dont worry, ngrok is here for rescue.
+Create a free account with ngrok - https://dashboard.ngrok.com/get-started/setup.
+Copy the auth token and keep it, we need it in next steps.
 
 #### Install PiCloud Docker image
 
